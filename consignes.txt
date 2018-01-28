@@ -1,0 +1,17 @@
+Côté Laravel :
+  Que l’application générée fonctionne (avec ou sans artisan)
+  Ajouter une API « GET /todos » qui renvoie une liste de 2 ou 3 todos simples (id,
+  label) sans connexion à la base de données
+Côté Vue.js :
+  Que l’application fonctionne également (c’était normalement bon pour tout le monde
+  déjà)
+  Faire une requête AJAX vers l’application Laravel pour récupérer la liste des todos
+  Afficher basiquement ces todos (ul > li)
+Faire en sorte qu’il n’y ait pas d’erreur de Cross-Origin lors de la requête sur les
+todos
+
+Si vous avez des questions je reste bien sûr disponible via les moyens de
+communication habituels.
+
+Ces travaux (2 dépôts GIT distincts) sont à me faire parvenir pour le dimanche 4
+Février à 20h maximum.
